@@ -3,5 +3,6 @@ A video player android app having basic functionalities, also has a picture in p
 
 
 # Libraries : 
- `com.afollestad.easyvideoplayer.EasyVideoPlayer` 
+ * `com.afollestad.easyvideoplayer.EasyVideoPlayer` 
+ * `com.nbsp.materialfilepicker`
  
